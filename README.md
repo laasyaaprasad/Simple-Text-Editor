@@ -24,7 +24,7 @@ The main aim of the project is to implement a simple text editor using basic and
 
 # Results
 
-#<img width="192" alt="Screenshot 2024-03-08 at 10 44 23 PM" src="https://github.com/laasyaaprasad/Simple-Text-Editor/assets/75083241/1083dbbc-0170-44ed-bb33-6d8cc93a8495">
+<img width="192" alt="Screenshot 2024-03-08 at 10 44 23 PM" src="https://github.com/laasyaaprasad/Simple-Text-Editor/assets/75083241/1083dbbc-0170-44ed-bb33-6d8cc93a8495">
 
 <img width="194" alt="Screenshot 2024-03-08 at 10 44 51 PM" src="https://github.com/laasyaaprasad/Simple-Text-Editor/assets/75083241/0a0937f5-f0d4-46e4-9f3b-5ec3dd0ba9c3">
 
