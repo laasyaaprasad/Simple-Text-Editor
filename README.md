@@ -1,12 +1,12 @@
 ## Simple Text Editor
 
-#Introduction 
+# Introduction 
 
 This text editor is a computer program that lets a user enter, change, store, and save text. It will provide an empty display screen with a fixed-line length along with scroll panes. You can then fill the lines in with text, line by line. A special task bar lets you make changes in the document such as change the font colour, size, style, change the theme of the editor and overall enhance the look and feel of the text editor according to the user’s choice.  The user can freely save the document, open another file and even edit it according to his choice.
 
 The main aim of the project is to implement a simple text editor using basic and advanced java concepts. The text editor will allow the user to make their text more presentable by helping him change the font style, font size, colour etc. It can perform efficient text functions like mimicking the operations on a WordPad or NotePad.
 
-#Tools used :
+# Tools used :
  1. IntelliJ IDE
 ![intellij-idea-icon-2048x2048-hsyna1mi](https://github.com/laasyaaprasad/Simple-Text-Editor/assets/75083241/bac82d90-643e-4a9b-bb2a-d16f75269910)
 
